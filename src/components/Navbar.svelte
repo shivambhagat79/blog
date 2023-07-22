@@ -12,7 +12,7 @@
         
       </ul>
     </div>
-    <a href="/" class="btn btn-ghost normal-case text-xl">Shivam Bhagat</a>
+    <a href="" class="btn btn-ghost normal-case text-xl">Shivam Bhagat</a>
   </div>
   <div class="navbar-center hidden lg:flex">
     <ul class="menu menu-horizontal px-1 text-lg">
